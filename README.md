@@ -25,7 +25,7 @@
 - [swf2js.com](https://swf2js.com/) - Player
 - [Ruffle](https://ruffle.rs/) - Player
 
-#Licence
+# Licence
 
 - MIT License Copyright (c) 2022-2023 weepjp
 - A parody of Nintendo's Super Smash Bros (大乱闘スマッシュブラザーズ).
