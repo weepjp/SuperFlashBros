@@ -21,9 +21,12 @@
 
 # Links
 
-- [大乱闘フラッシュブラザーズ](https://weep.jp/swf/) - Operation confirmation site
-- [swf2js.com](https://swf2js.com/) - Player
-- [Ruffle](https://ruffle.rs/) - Player
+- Website
+  - [大乱闘フラッシュブラザーズ](https://weep.jp/swf/) - Operation confirmation site.
+  - [GitHub オールスター！ 大乱闘フラッシュブラザーズ！](https://www.weep.blog/2022/02/13.html) - Release blog article.
+- Battle(?) Players
+  - [swf2js.com](https://swf2js.com/) - Player!
+  - [Ruffle](https://ruffle.rs/) - Player!
 
 # Licence
 
