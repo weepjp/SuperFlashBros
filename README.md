@@ -26,7 +26,9 @@
   - [GitHub オールスター！ 大乱闘フラッシュブラザーズ！](https://www.weep.blog/2022/02/13.html) - Release blog article.
 - Battle(?) Players
   - [swf2js.com](https://swf2js.com/) - Player!
+  - - [swf2js/swf2js: swf2js is Flash Player Runtime Engine written in pure JavaScript. ](https://github.com/swf2js/swf2js)
   - [Ruffle](https://ruffle.rs/) - Player!
+  - - [ruffle-rs/ruffle: A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 
 # Licence
 
