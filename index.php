@@ -1,5 +1,5 @@
 <?
-// Version 20230121T110000Z
+// Version 20230121T112020Z
 // 
 // SuperFlashBros (大乱闘フラッシュブラザーズ)
 // https://weep.jp/swf/
@@ -10,6 +10,7 @@
 // * A parody of Nintendo's Super Smash Bros (大乱闘スマッシュブラザーズ) Series.
 // 
 
+$version = '20230121T112020Z';
 
 function urlget($url){
     $option = [
@@ -239,7 +240,7 @@ $command = '
 $footer = '
             
 </div>
-
+<h2>Version: '.$version.'</h2>
 <h2><a href="https://github.com/weepjp/SuperFlashBros" target="_blank">MIT License</a> © 2022-'.date('Y').' <a href="https://weep.jp/">weepjp</a>.  (<a href="https://weep.blog/2022/02/13.html" target="_blank">これなに？</a>)</h2>
 <h2>Players: <a href="https://swf2js.com/">swf2js</a> / <a href="https://ruffle.rs/">Ruffle</a></h2>
 <h2>A parody of Nintendo\'s Super Smash Bros (大乱闘スマッシュブラザーズ) Series.</h2>
