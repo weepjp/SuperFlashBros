@@ -33,4 +33,4 @@
 # Licence
 
 - MIT License Copyright (c) 2022-2023 weepjp
-- A parody of Nintendo's Super Smash Bros (大乱闘スマッシュブラザーズ).
+- A parody of Nintendo's Super Smash Bros (大乱闘スマッシュブラザーズ) Series.
