@@ -24,3 +24,8 @@
 - [大乱闘フラッシュブラザーズ](https://weep.jp/swf/) - Operation confirmation site
 - [swf2js.com](https://swf2js.com/) - Player
 - [Ruffle](https://ruffle.rs/) - Player
+
+#Licence
+
+- MIT License Copyright (c) 2022-2023 weepjp
+- * A parody of Nintendo's Super Smash Bros (大乱闘スマッシュブラザーズ).
