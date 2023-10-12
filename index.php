@@ -1,5 +1,5 @@
 <?
-// Version 20230121T112020Z
+// Version 20231012T103700Z
 // 
 // SuperFlashBros (大乱闘フラッシュブラザーズ)
 // https://weep.jp/swf/
@@ -10,7 +10,7 @@
 // * A parody of Nintendo's Super Smash Bros (大乱闘スマッシュブラザーズ) Series.
 // 
 
-$version = '20230121T112020Z';
+$version = '20231012T103700Z';
 
 function urlget($url){
     $option = [
@@ -250,7 +250,7 @@ $footer = '
 
 
 switch($s){
-    case '1':
+    case '1'://////////// ruffle//////////////////
 ?><?=$header1?>
 <?=$header2?>
 <?=$msg?>
@@ -270,7 +270,7 @@ switch($s){
         player.style.height = "<?=$he?>px";
     });
 </script>
-<script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle"></script>
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 
 <?=$command?>
 
@@ -328,4 +328,3 @@ switch($s){
     break;
 }
 ?>
-
