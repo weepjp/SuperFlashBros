@@ -6,11 +6,12 @@
 - (EN) It's a hot battle (comparison) of Flash <u>"Players"</u>.
 - (JA) #swf2js と #ruffle の Flash <u>Player</u> エミュレータたちの熱き比較（バトル）を繰り広げるサイト！ それが、大乱闘フラッシュブラザーズである！
 
-# しくみ (in japanese)
+# しくみと作成の動機 (In japanese)
 
 - curl を使って、他サイトの swf を取得。
 - 本当に swf 形式だったら、base64 にする（それ以外はエラー出す）。
 - base64 を Data URI Schema にして、 #swf2js or #ruffle に 読み込ませます。
+- #swf2js or #ruffle では、 Data URI Schema でも、ちゃんと読み込ませられるという証明のためのテスト PHP だったわけです。。
 - （そのくらいの説明、英語で書けよ。。。）
 
 
