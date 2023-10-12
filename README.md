@@ -6,6 +6,14 @@
 - (EN) It's a hot battle (comparison) of Flash <u>"Players"</u>.
 - (JA) #swf2js と #ruffle の Flash <u>Player</u> エミュレータたちの熱き比較（バトル）を繰り広げるサイト！ それが、大乱闘フラッシュブラザーズである！
 
+# しくみ (in japanese)
+
+- curl を使って、他サイトの swf を取得。
+- 本当に swf 形式だったら、base64 にする（それ以外はエラー出す）。
+- base64 を Data URI Schema にして、 #swf2js or #ruffle に 読み込ませます。
+- （そのくらいの説明、英語で書けよ。。。）
+
+
 # Usage
 
 ![image](https://user-images.githubusercontent.com/3696720/213863045-58e99146-1b6a-4be1-a20c-2370e432e933.png)
